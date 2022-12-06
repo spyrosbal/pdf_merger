@@ -1,1 +1,1 @@
-# pdf_merger
+Simple PDF merger using tkinter.
