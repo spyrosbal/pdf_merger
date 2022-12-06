@@ -1,1 +1,1 @@
-Simple PDF merger using tkinter.
+Simple PDF merger using tkinter and PyPDF2.
